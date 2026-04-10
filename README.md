@@ -33,4 +33,4 @@ A full written analysis is included in `India_Suicide_Statistics_Analysis_2021.d
 ## Author
 
 **Moaaz Ahmed**
-- GitHub: [@Moaaz Ahmed](https://github.com/MomoSalter)
+- GitHub: [@Moaaz Ahmed](https://github.com/MoaazSalter)
